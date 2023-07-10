@@ -21,10 +21,10 @@ This collection contains the implementation of three machine learning models app
    * Applying the cross-validation process described in the paper to find the best hyperparameter settings for the models.
   
 6. **Testing_ML.ipynb**
-   * Applying the testing process described in the paper to evaluate the performance of the models.
+    * Applying the testing process described in the paper to evaluate the performance of the models.
 
 8. **Analysing_results.ipynb**
-   * Inspecting and analyzing the results obtained during the testing phase.
+    * Inspecting and analyzing the results obtained during the testing phase.
 
 `PLEASE NOTE:` in order for the Notebooks to run seamlessly, the directory in which they are run should contain the directory *Forests* as well as the following (empty) folders:
 * *Tests*, where the output of different tests conducted to check the proper working of the Notebooks are saved.
