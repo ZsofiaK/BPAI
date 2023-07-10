@@ -23,7 +23,7 @@ This collection contains the implementation of three machine learning models app
 6. **Testing_ML.ipynb**
    * Applying the testing process described in the paper to evaluate the performance of the models.
 
-7. **Analysing_results.ipynb**
+8. **Analysing_results.ipynb**
    * Inspecting and analyzing the results obtained during the testing phase.
 
 `PLEASE NOTE:` in order for the Notebooks to run seamlessly, the directory in which they are run should contain the directory *Forests* as well as the following (empty) folders:
