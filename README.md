@@ -36,4 +36,4 @@ This collection named *Implementation* contains the implementation of three mach
 
 ## Ungulate browsing prediction pipeline
 
-Besides the implementation of the project contained in the above Notebooks, **Browsing_forecast.ipynb** in the directory *Pipeline* contains the ML pipeline aimed to provide a tool to predict browsing behavior in new habitats. All instructions needed to use the pipeline are included in this Notebook. The authors hope that this simple application will contribute to understanding the complexities of ungulate browsing as well as highlighting the importance of its thoughtful consideration in forest management.
+Besides the implementation of the project contained in the above Notebooks, **Browsing_forecast.ipynb** in the directory *Pipeline* contains the ML pipeline aimed to provide a tool to predict browsing behavior in new habitats. All instructions needed to use the pipeline are included in this Notebook. The author hopes that this simple application will contribute to understanding the complexities of ungulate browsing as well as highlighting the importance of its thoughtful consideration in forest management.
